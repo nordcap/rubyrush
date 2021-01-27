@@ -6,7 +6,7 @@ sleep 1
 
 #брать слово загаданное и возвращать его в виде массива его букв
 letters = get_letters
-
+puts letters
 errors = 0
 good_letters = []
 bad_letters = []
